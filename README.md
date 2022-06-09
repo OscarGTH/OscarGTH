@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oskari!
 - 👀 I’m interested in Hardware Programming and all kinds of fun projects.
 - 🌱 I’m currently learning robotics, electrical engineering, software engineering and all kinds of things that interest me.
-- 💞️ I’m looking to collaborate on any fun projects!
+- I’m looking to collaborate on any fun projects!
 
 
 <!---
